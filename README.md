@@ -4,15 +4,15 @@
 ## Project items (TBD)
 
 #### 1. Online Banking App
-- Users able to login to check their balance and transfer money.
-- Users can check their recent activities and statement summary.
+- As user, I want to be able to login, so I can check my balance and transfer money.
+- As user, I want to access my statement summary, so I can track the activities.
 - Etc.
 #### 2. Health care related App
-- Users able to login to check their plans / status.
-- Users can check the plans availabilites / promotions.
+- As user, I want to be able to login, so I can check my plans / status.
+- As user, I want access my account detail page, so I can check the plans availabilites / promotions.
 - Etc.
 #### 3. Online game platform App (Puzzle based, i.e. 2048, sudoku, etc)
-- Users able to login to purchase game in the App.
-- Users can download games to play.
-- Users can play game on web-browser.
+- As user, I want to be able to login, so I can purchase game in the App.
+- As user, I want to check my game library, so I can manage my game list in my account.
+- As user, I want to library cart, so I can purchase the game from the list.
 - Etc.
